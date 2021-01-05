@@ -4,3 +4,6 @@
 
 Tela do Jogo
 [![Jogo da Cobrinha](https://i.imgur.com/dqklWK3.gif "Jogo da Cobrinha")](https://i.imgur.com/TXglSEU.jpg "Jogo da Cobrinha")
+
+##### Você pode jogar e testar no link:
+https://nandodevs.github.io/Jogo-da-Cobrinha-JS/
